@@ -2,6 +2,6 @@
   "name": "kahoot rocks",
   "description": "testing",
   "image": "heroku/nodejs",
-  "repository": "https://github.com/frosDfurret/khtrck-heroku"
+  "repository": "https://github.com/frosDfurret/khtrck-heroku",
   "website": "https://kahoot.rocks"
 }
